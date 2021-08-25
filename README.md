@@ -26,14 +26,16 @@
 10. Make an idiot commit and push on your main branch
 11. Now `git reset --hard HEAD~1` and check with `git status && git log --graph`
 12.  
- 
+ ```
   _______ _______     __  __  __  ____  _____  ______ 
  |__   __|  __ \ \   / / |  \/  |/ __ \|  __ \|  ____|
     | |  | |__) \ \_/ /  | \  / | |  | | |__) | |__   
     | |  |  _  / \   /   | |\/| | |  | |  _  /|  __|  
     | |  | | \ \  | |    | |  | | |__| | | \ \| |____ 
     |_|  |_|  \_\ |_|    |_|  |_|\____/|_|  \_\______|
+```
 
+---
 # CleanUp
 
 1. Delete you dev and main branch for everybody (`git push --delete origin <branch>`)
