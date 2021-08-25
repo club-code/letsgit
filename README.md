@@ -1,6 +1,6 @@
 # Scenario (Light side of the Force)
 
-![jedi](https://www.google.com/search?q=jedi&tbm=isch&tbs=ic:trans&client=ubuntu&hs=9wK&hl=ru&sa=X&ved=0CAMQpwVqFwoTCKiUr6nXzPICFQAAAAAdAAAAABAI&biw=1836&bih=968#imgrc=y8X8hUCf2NOuDM)
+![jedi](images/Light.webp)
 
 1. Check your branch (`git branch`) and your status (`git status`)
 2. Create new branch using the following pattern <your_last_name>_intech_main (tip: `git checkout -b <branch_name>`)
@@ -12,7 +12,7 @@
 
 # Scenario (Dark side of the force)
 
-![dark](https://www.google.com/search?q=darth%20vader&tbm=isch&tbs=ic:trans&client=ubuntu&hs=yK0&hl=ru&sa=X&ved=0CAMQpwVqFwoTCPjWovvXzPICFQAAAAAdAAAAABAC&biw=1836&bih=968#imgrc=8HJi-Io5box3PM)
+![dark](images/Dark.webp)
 
 1. Create new branch using pattern <your_last_name>_intech_dev from the main branch that you are created (<your_last_name>_intech_main)
 2. `git pull --rebase` to see other's modifications
